@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=yeshwanth-ds&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwanth-ds" />
 </p>
 
-
 <p align="center">
   <a href="https://linkedin.com/in/yeshwanth-ds" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="yeshwanth-ds" />
@@ -21,7 +20,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 🌱 Currently Learning
@@ -30,6 +28,7 @@
 
 ### 💬 Ask me about:
 - Programming (Java, Python)
+- Data Structures and Algorithms
 - Full-stack Web Development
 - Quantum Computing and AI
 
@@ -59,14 +58,30 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshwanth-ds&theme=tokyonight" alt="yeshwanth-ds" />
 </p>
 
-
-
 ---
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yeshwanth-ds&theme=onedark&no-frame=true&row=1&column=6" alt="yeshwanth-ds" />
 </p>
+
+---
+
+### 🏅 Badges and Achievements
+
+### 🏅 Holopin Badges
+
+<p align="center">
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150" />
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Holopin Badge" width="150" />
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" alt="Holopin Badge" width="150" />
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-robe-witch-0.webp" alt="Holopin Badge" width="150" />
+  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-witch-rainbow.webp" alt="Holopin Badge" width="150" />
+</p>
+
+
+
+
 
 ---
 
