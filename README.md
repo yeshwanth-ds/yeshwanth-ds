@@ -79,10 +79,6 @@
   <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-witch-rainbow.webp" alt="Holopin Badge" width="150" />
 </p>
 
-
-
-
-
 ---
 
 ### 💻 Projects and Contributions
@@ -91,6 +87,6 @@
 ---
 
 ### 📫 Connect with me:
-- 📧 Reach me at **yeshwanthds@example.com**
+- 📧 Reach me at **yeshwanthds@gmail.com**
 - 💼 [LinkedIn](https://linkedin.com/in/yeshwanth-ds)
 - 🧑‍💻 [LeetCode](https://leetcode.com/yeshwanth_ds)
