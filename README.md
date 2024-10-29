@@ -27,7 +27,7 @@
 - Advanced System Design
 
 ### 💬 Ask me about:
-- Programming (Java, Python)
+- Programming (Java, Python.JavaScript)
 - Data Structures and Algorithms
 - Full-stack Web Development
 - Quantum Computing and AI
@@ -51,8 +51,6 @@
   <img src="https://img.shields.io/badge/JSON%20Web%20Token-000000?style=for-the-badge&logo=json-web-token&logoColor=white" alt="JWT" />
 </p>
 
-
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -75,7 +73,15 @@
 
 ### 🏅 Badges and Achievements
 
-### 🏅 Holopin Badges
+
+<p align="center">
+  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" alt="GSSoC Badge 1" width="96" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="GSSoC Badge 2" width="96" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" alt="GSSoC Badge 3" width="96" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" alt="GSSoC Badge 4" width="96" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" alt="GSSoC Badge 5" width="96" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" alt="GSSoC Badge 6" width="96" />
+</p>
 
 <p align="center">
   <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150" />
@@ -84,6 +90,8 @@
   <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-robe-witch-0.webp" alt="Holopin Badge" width="150" />
   <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-witch-rainbow.webp" alt="Holopin Badge" width="150" />
 </p>
+
+
 
 ---
 
