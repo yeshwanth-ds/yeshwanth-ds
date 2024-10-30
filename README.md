@@ -27,7 +27,7 @@
 - Advanced System Design
 
 ### 💬 Ask me about:
-- Programming (Java, Python.JavaScript)
+- Programming (Java, Python,JavaScript)
 - Data Structures and Algorithms
 - Full-stack Web Development
 - Quantum Computing and AI
