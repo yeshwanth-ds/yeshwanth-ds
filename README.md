@@ -76,12 +76,15 @@
 
 <p align="center">
   <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" alt="GSSoC Badge 1" width="96" />
+  <img src="https://gssoc.girlscript.tech/badges/web3hack.png?imwidth=96" alt="GSSoC Web3 Hack Badge" width="96" />
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="GSSoC Badge 2" width="96" />
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" alt="GSSoC Badge 3" width="96" />
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" alt="GSSoC Badge 4" width="96" />
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" alt="GSSoC Badge 5" width="96" />
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" alt="GSSoC Badge 6" width="96" />
+  <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=96" alt="GSSoC Badge 7" width="96" />
 </p>
+
 
 <p align="center">
   <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150" />
