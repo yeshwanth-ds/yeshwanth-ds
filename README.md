@@ -54,6 +54,11 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshwanth-ds&langs_count=10&theme=tokyonight&layout=compact" alt="most-used-languages" />
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwanth-ds&show_icons=true&theme=tokyonight" alt="yeshwanth-ds" />
 </p>
