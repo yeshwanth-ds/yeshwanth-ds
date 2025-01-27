@@ -23,8 +23,8 @@
 ---
 
 ### 🌱 Currently Learning
-- **MERN Stack**
-- Advanced System Design
+- **DOTNET (C#)**
+- Open Source
 
 ### 💬 Ask me about:
 - Programming (Java, Python,JavaScript)
